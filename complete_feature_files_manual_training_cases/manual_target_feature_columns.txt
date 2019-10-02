@@ -1,0 +1,88 @@
+NEUTR
+senna
+VTHR
+pantoprazole
+VTTEMA
+FIB
+CO2
+insulin aspart (NovoLOG)
+VANT
+HCT
+K
+MG
+ampicillin-sulbactam
+albumin human
+INR
+potassium chloride
+GLU
+aspirin
+ALB
+O2VENT
+metoprolol
+ALT
+PEEP
+UNTR
+BAND
+HGB
+ALKP
+vancomycin
+midazolam
+levETIRAcetam
+CREAT
+Sodium Chloride 0.9%
+furosemide
+VTDIAV
+TBILI
+NA
+insulin regular (HumuLIN R^ NovoLIN R)
+AST
+levothyroxine
+insulin glargine (Lantus)
+PCO2
+Base solution
+VSTUBE
+PO2
+norepinephrine
+RBC
+GFR
+Dextrose 5% in Water
+albuterol-ipratropium
+MCV
+LACT
+chlorhexidine topical
+famotidine
+DBILI
+VTCVP
+PHOS
+PT
+BUN
+PH
+TROPN
+AGAP
+CL
+CA
+PLT
+ANEUTR
+WBC
+VTRR
+MODE
+IO
+HYDROmorphone
+VTSO2V
+VTSO2A
+AMMON
+fentanyl
+hydrocortisone
+propofol
+PTT
+VSVENT
+heparin
+magnesium sulfate
+HCO3A
+lactulose
+metronidazole
+piperacillin-tazobactam
+haloperidol
+LORazepam
+acetaminophen
+ICA

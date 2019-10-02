@@ -1,0 +1,10 @@
+Blood Culture (C&S)
+MRSA Screen for Infection Control (Nose
+VRE Screen
+Urine Culture (C&S)
+Clostridium difficile Toxin (Stool)
+Fungus Culture (C&S)
+Anaerobic Culture (C&S)
+Sputum Culture (C&S) (with Gram Stain)
+Acinetobacter Screen Infection Control
+MICRO_ANY

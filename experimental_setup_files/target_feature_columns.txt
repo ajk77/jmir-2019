@@ -1,0 +1,134 @@
+NEUTR
+vancomycin
+hydrALAZINE
+VTHR
+ephedrine
+epinephrine
+levothyroxine
+PCO2V
+LACT
+VTSO2A
+predniSONE
+nitroprusside
+PTT
+O2VENT
+fentanyl
+midazolam
+pantoprazole
+D5NS
+chlorhexidine topical
+cefepime
+VTTEMA
+CO2
+famotidine
+levETIRAcetam
+D5 LR
+DBILI
+enoxaparin
+CREAT
+VTCVP
+NS + KCL 20 mEq premix
+CYMONO
+PHV
+oxycodone
+Sodium Chloride 0.9%
+HP
+furosemide
+hydrocortisone
+CRTSL
+VTDIAV
+PTN
+PHOS
+propofol
+PT
+AMY
+BUN
+fluconazole
+PH
+lisinopril
+K
+VSVENT
+VANR
+VANT
+parenteral nutrition solution
+cephalexin
+azithromycin
+ABAND
+LIPASE
+cefuroxime
+heparin
+MG
+insulin lispro (HumaLOG)
+ampicillin-sulbactam
+methylPREDNISolone
+INR
+meropenem
+valproic acid
+TBILI
+folic acid
+HCO3A
+clonidine
+insulin regular (HumuLIN R^ NovoLIN R)
+vasopressin
+lactulose
+O2SAT
+phenylephrine
+thiamine
+TROPN
+GLU
+AST
+NA
+amLODIPine
+VSTRIA
+fondaparinux
+metronidazole
+rifaximin
+aspirin
+CL
+CA
+risperidone
+cycloSPORINE
+sodium bicarbonate
+carvedilol
+Lactated Ringers
+piperacillin-tazobactam
+cefazolin
+PLT
+insulin glargine (Lantus)
+ALB
+spironolactone
+PCO2
+lamotrigine
+metoprolol
+ALT
+Base solution
+NIFEdipine
+atorvastatin
+WBC
+FERITN
+VSTUBE
+VTRR
+LORazepam
+warfarin
+GGTP
+MODE
+acetaminophen
+SYRINGE
+labetalol
+ICA
+PO2
+acetylcysteine
+BAND
+norepinephrine
+amiodarone
+IO
+HGB
+aztreonam
+ALKP
+GFR
+lacosamide
+Dextrose 5% in Water
+niCARdipine
+albuterol-ipratropium
+MCV
+olanzapine

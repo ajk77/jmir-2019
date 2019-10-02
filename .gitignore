@@ -1,0 +1,91 @@
+### project specific ###
+venv/*
+README_private.txt
+Scripts/case_match_tests.py
+*.npy
+*.pkl
+
+# case data
+complete_feature_files_manual_training_cases/diagnosis_features.txt
+complete_feature_files_manual_training_cases/demo_feature_files/*
+complete_feature_files_manual_training_cases/io_feature_files/*
+complete_feature_files_manual_training_cases/med_feature_files/*
+complete_feature_files_manual_training_cases/micro_feature_files/*
+complete_feature_files_manual_training_cases/procedure_feature_files/*
+complete_feature_files_manual_training_cases/root_feature_files/*
+
+complete_feature_files_gaze_training_cases/diagnosis_features.txt
+complete_feature_files_gaze_training_cases/demo_feature_files/*
+complete_feature_files_gaze_training_cases/io_feature_files/*
+complete_feature_files_gaze_training_cases/med_feature_files/*
+complete_feature_files_gaze_training_cases/micro_feature_files/*
+complete_feature_files_gaze_training_cases/procedure_feature_files/*
+complete_feature_files_gaze_training_cases/root_feature_files/*
+
+complete_feature_files_evaluation_cases/diagnosis_features.txt
+complete_feature_files_evaluation_cases/demo_feature_files/*
+complete_feature_files_evaluation_cases/io_feature_files/*
+complete_feature_files_evaluation_cases/med_feature_files/*
+complete_feature_files_evaluation_cases/micro_feature_files/*
+complete_feature_files_evaluation_cases/procedure_feature_files/*
+complete_feature_files_evaluation_cases/root_feature_files/*
+
+
+### boilerplate ###
+
+# Packages #
+.gitconfig
+
+# Private configurations #
+config.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
