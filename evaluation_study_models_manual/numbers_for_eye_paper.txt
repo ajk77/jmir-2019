@@ -1,0 +1,73 @@
+#dir	item	auroc	lower-auroc	upper-auroc	precision	lower-pre	upper-pre	recall	lower-re	upper-re	tp	fp	fn	tn
+../evaluation_study_models_manual	NEUTR	0.391	0.207	0.644	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	4.0	56.0
+../evaluation_study_models_manual	vancomycin	0.761	0.653	0.87	0.353	0.229	0.5	0.706	0.5	0.882	12.0	22.0	5.0	29.0
+../evaluation_study_models_manual	VTHR	0.547	0.412	0.659	0.618	0.529	0.721	1.0	1.0	1.0	42.0	26.0	0.0	0.0
+../evaluation_study_models_manual	levothyroxine	0.806	0.754	0.851	0.019	0.018	0.061	1.0	1.0	1.0	1.0	51.0	0.0	16.0
+../evaluation_study_models_manual	LACT	0.702	0.572	0.828	0.262	0.157	0.386	1.0	1.0	1.0	11.0	31.0	0.0	26.0
+../evaluation_study_models_manual	VTSO2A	0.569	0.455	0.691	0.456	0.356	0.574	0.897	0.794	0.971	26.0	31.0	3.0	8.0
+../evaluation_study_models_manual	PTT	0.433	0.343	0.537	0	0	0	0.0	0.0	0.0	0.0	0.0	1.0	67.0
+../evaluation_study_models_manual	O2VENT	0.765	0.657	0.858	0.605	0.475	0.733	0.852	0.733	0.96	23.0	15.0	4.0	26.0
+../evaluation_study_models_manual	fentanyl	0.388	0.264	0.529	0.25	0.0	1.0	0.071	0.0	0.2	1.0	3.0	13.0	51.0
+../evaluation_study_models_manual	midazolam	0.348	0.208	0.511	0.0	0.0	0.0	0.0	0.0	0.0	0.0	35.0	2.0	31.0
+../evaluation_study_models_manual	pantoprazole	0.526	0.398	0.712	0.154	0.042	0.28	0.444	0.2	0.8	4.0	22.0	5.0	37.0
+../evaluation_study_models_manual	chlorhexidine topical	0.43	0.249	0.598	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	6.0	54.0
+../evaluation_study_models_manual	VTTEMA	0.702	0.583	0.811	0.618	0.515	0.706	1.0	1.0	1.0	42.0	26.0	0.0	0.0
+../evaluation_study_models_manual	CO2	0.525	0.402	0.683	0.245	0.146	0.349	0.8	0.688	1.0	12.0	37.0	3.0	16.0
+../evaluation_study_models_manual	famotidine	0.641	0.502	0.766	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	6.0	56.0
+../evaluation_study_models_manual	levETIRAcetam	0.008	0.0	0.023	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	3.0	61.0
+../evaluation_study_models_manual	DBILI	0.671	0.545	0.81	0	0	0	0.0	0.0	0.0	0.0	0.0	9.0	59.0
+../evaluation_study_models_manual	CREAT	0.466	0.276	0.67	0.875	0.8	0.938	0.949	0.898	0.984	56.0	8.0	3.0	1.0
+../evaluation_study_models_manual	VTCVP	0.466	0.265	0.677	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	2.0	62.0
+../evaluation_study_models_manual	Sodium Chloride 0.9%	0.369	0.254	0.504	0.346	0.2	0.5	0.321	0.185	0.483	9.0	17.0	19.0	23.0
+../evaluation_study_models_manual	furosemide	0.39	0.269	0.502	0.0	0.0	0.0	0.0	0.0	0.0	0.0	36.0	3.0	29.0
+../evaluation_study_models_manual	hydrocortisone	0.517	0.273	0.774	0.083	0.033	0.15	1.0	1.0	1.0	5.0	55.0	0.0	8.0
+../evaluation_study_models_manual	VTDIAV	0.433	0.216	0.641	0.897	0.838	0.956	1.0	1.0	1.0	61.0	7.0	0.0	0.0
+../evaluation_study_models_manual	PHOS	0.454	0.33	0.591	0.125	0.034	0.259	0.25	0.067	0.467	3.0	21.0	9.0	35.0
+../evaluation_study_models_manual	propofol	0.641	0.402	0.866	0.273	0.071	0.5	0.5	0.143	0.875	3.0	8.0	3.0	54.0
+../evaluation_study_models_manual	PT	0.525	0.273	0.805	0	0	0	0.0	0.0	0.0	0.0	0.0	4.0	64.0
+../evaluation_study_models_manual	BUN	0.593	0.473	0.701	0.489	0.366	0.612	0.733	0.595	0.862	22.0	23.0	8.0	15.0
+../evaluation_study_models_manual	PH	0.712	0.559	0.846	0.167	0.0	0.364	0.333	0.0	0.667	2.0	10.0	4.0	52.0
+../evaluation_study_models_manual	K	0.627	0.496	0.733	0.397	0.281	0.492	0.885	0.769	0.967	23.0	35.0	3.0	7.0
+../evaluation_study_models_manual	VSVENT	0.155	0.015	0.336	0	0	0	0.0	0.0	0.0	0.0	0.0	2.0	66.0
+../evaluation_study_models_manual	VANT	0.586	0.306	0.866	0.125	0.0	0.278	0.5	0.0	1.0	2.0	14.0	2.0	50.0
+../evaluation_study_models_manual	heparin	0.648	0.521	0.774	0.5	0.286	0.714	0.5	0.286	0.706	8.0	8.0	8.0	44.0
+../evaluation_study_models_manual	MG	0.472	0.356	0.602	0.152	0.068	0.25	0.778	0.5	1.0	7.0	39.0	2.0	20.0
+../evaluation_study_models_manual	ampicillin-sulbactam	0.258	0.177	0.352	0.054	0.025	0.128	1.0	1.0	1.0	2.0	35.0	0.0	31.0
+../evaluation_study_models_manual	INR	0.346	0.19	0.522	0.108	0.029	0.205	0.364	0.125	0.625	4.0	33.0	7.0	24.0
+../evaluation_study_models_manual	TBILI	0.751	0.603	0.849	0.348	0.158	0.5	0.667	0.375	0.875	8.0	15.0	4.0	41.0
+../evaluation_study_models_manual	HCO3A	0.754	0.664	0.833	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	1.0	55.0
+../evaluation_study_models_manual	insulin regular (HumuLIN R^ NovoLIN R)	0.5	0.374	0.645	0.146	0.062	0.25	0.462	0.231	0.7	6.0	35.0	7.0	20.0
+../evaluation_study_models_manual	lactulose	0.813	0.75	0.896	0.02	0.019	0.065	1.0	1.0	1.0	1.0	48.0	0.0	19.0
+../evaluation_study_models_manual	TROPN	0.708	0.607	0.794	0	0	0	0.0	0.0	0.0	0.0	0.0	3.0	65.0
+../evaluation_study_models_manual	GLU	0.511	0.391	0.638	0.286	0.167	0.425	0.476	0.292	0.667	10.0	25.0	11.0	22.0
+../evaluation_study_models_manual	AST	0.964	0.933	0.996	0.667	0.0	1.0	0.2	0.0	0.429	2.0	1.0	8.0	57.0
+../evaluation_study_models_manual	NA	0.447	0.314	0.56	0.603	0.515	0.706	1.0	1.0	1.0	41.0	27.0	0.0	0.0
+../evaluation_study_models_manual	metronidazole	0.39	0.218	0.513	0.18	0.094	0.25	0.846	0.636	1.0	11.0	50.0	2.0	5.0
+../evaluation_study_models_manual	aspirin	0.715	0.619	0.8	0.115	0.037	0.227	1.0	1.0	1.0	3.0	23.0	0.0	42.0
+../evaluation_study_models_manual	CL	0.438	0.285	0.591	0.159	0.075	0.261	0.583	0.333	0.818	7.0	37.0	5.0	19.0
+../evaluation_study_models_manual	CA	0.367	0.187	0.538	0.0	0.0	0.0	0.0	0.0	0.0	0.0	20.0	2.0	46.0
+../evaluation_study_models_manual	piperacillin-tazobactam	0.635	0.453	0.81	0.172	0.097	0.258	0.733	0.538	0.917	11.0	53.0	4.0	0.0
+../evaluation_study_models_manual	PLT	0.498	0.387	0.626	0.446	0.345	0.564	0.833	0.714	0.938	25.0	31.0	5.0	7.0
+../evaluation_study_models_manual	insulin glargine (Lantus)	0.282	0.045	0.694	0.017	0.0	0.05	0.333	0.0	1.0	1.0	59.0	2.0	6.0
+../evaluation_study_models_manual	ALB	0.455	0.351	0.545	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	1.0	59.0
+../evaluation_study_models_manual	PCO2	0.266	0.182	0.362	0	0	0	0.0	0.0	0.0	0.0	0.0	4.0	64.0
+../evaluation_study_models_manual	metoprolol	0.523	0.34	0.702	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.0	7.0	45.0
+../evaluation_study_models_manual	ALT	0.974	0.958	0.999	1.0	1.0	1.0	0.4	0.143	0.667	4.0	0.0	6.0	58.0
+../evaluation_study_models_manual	Base solution	0.584	0.447	0.715	0.286	0.189	0.404	0.737	0.562	0.9	14.0	35.0	5.0	14.0
+../evaluation_study_models_manual	WBC	0.612	0.477	0.735	0.774	0.667	0.863	0.82	0.721	0.902	41.0	12.0	9.0	6.0
+../evaluation_study_models_manual	VSTUBE	0.3	0.16	0.451	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	9.0	47.0
+../evaluation_study_models_manual	VTRR	0.493	0.356	0.612	0.268	0.175	0.368	0.882	0.737	1.0	15.0	41.0	2.0	10.0
+../evaluation_study_models_manual	LORazepam	0.7	0.619	0.802	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	3.0	53.0
+../evaluation_study_models_manual	MODE	0.703	0.583	0.804	0.407	0.258	0.567	0.55	0.364	0.733	11.0	16.0	9.0	32.0
+../evaluation_study_models_manual	acetaminophen	0.306	0.22	0.403	0	0	0	0.0	0.0	0.0	0.0	0.0	1.0	67.0
+../evaluation_study_models_manual	ICA	0.649	0.562	0.75	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	1.0	64.0
+../evaluation_study_models_manual	PO2	0.672	0.454	0.887	0.375	0.1	0.667	0.5	0.143	0.857	3.0	5.0	3.0	57.0
+../evaluation_study_models_manual	BAND	0.604	0.47	0.754	0	0	0	0.0	0.0	0.0	0.0	0.0	15.0	53.0
+../evaluation_study_models_manual	norepinephrine	0.849	0.774	0.928	0.433	0.3	0.606	1.0	1.0	1.0	13.0	17.0	0.0	38.0
+../evaluation_study_models_manual	IO	0.572	0.44	0.693	0.667	0.519	0.806	0.465	0.341	0.59	20.0	10.0	23.0	15.0
+../evaluation_study_models_manual	HGB	0.411	0.296	0.527	0.438	0.344	0.547	0.903	0.811	0.974	28.0	36.0	3.0	1.0
+../evaluation_study_models_manual	ALKP	0.329	0.077	0.584	0	0	0	0.0	0.0	0.0	0.0	0.0	5.0	63.0
+../evaluation_study_models_manual	GFR	0.53	0.44	0.634	0	0	0	0.0	0.0	0.0	0.0	0.0	1.0	67.0
+../evaluation_study_models_manual	Dextrose 5% in Water	0.687	0.364	0.918	0.105	0.0	0.238	0.667	0.0	1.0	2.0	17.0	1.0	48.0
+../evaluation_study_models_manual	albuterol-ipratropium	0.287	0.085	0.486	0	0	0	0.0	0.0	0.0	0.0	0.0	5.0	63.0
+../evaluation_study_models_manual	MCV	0.273	0.015	0.582	0	0	0	0.0	0.0	0.0	0.0	0.0	2.0	66.0

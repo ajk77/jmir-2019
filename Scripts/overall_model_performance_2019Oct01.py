@@ -351,11 +351,36 @@ if __name__ == "__main__":
 
         out_file.close()
 
+    # ## calculate stats for eye_paper | item  n_true, n_total, auroc, upper, lower
+    if False:
+        items = get_all_items(generalized_dirs)
+        for curr_dir in generalized_dirs:
+            out_file = open(curr_dir + '/numbers_for_eye_paper.txt', 'w+')
+            out_file.write('#dir\titem\tauroc\tlower-auroc\tupper-auroc\tprecision\tlower-pre\tupper-pre\t')
+            out_file.write('recall\tlower-re\tupper-re\ttp\tfp\tfn\ttn\n')
+
+            models_only_rows = load_list(curr_dir + '/data_models_only.txt')
+            # ## for each item
+            for item in items:
+                result = numbers_for_eye_paper_v2019sep28(models_only_rows, curr_item=item)
+                # ^auroc, lower_auroc, upper_auroc, precision, lower_pre, upper_pre, recall, lower_recall, upper_recall,
+                # ...tp, fp, fn, tn]
+                if result:
+                    dir_and_type_str = curr_dir + '\t' + item
+                    write_numbers_results(out_file, dir_and_type_str, result)
+                else:
+                    print(item)
+            out_file.close()
+
 '''
 --------info------
 
 > Last run on 2019/10/1 
 =====../evaluation_study_models_manual=====
 =====../evaluation_study_models_gaze=====
+
+hydrALAZINE
+...
+olanzapine
 -------------------
 '''
