@@ -332,25 +332,6 @@ if __name__ == "__main__":
             print('=====' + curr_exp_dir + '=====')
             align_targets_2(exp_setup_dir, curr_exp_dir, case_order_18)
 
-    # ## do overall auroc, precision, and recall analyses
-    if False:
-        out_file = open('../overall_models_only_results.txt', 'w')
-        out_file.write('#dir\ttype\tauroc\tlower-auroc\tupper-auroc\tprecision\tlower-pre\tupper-pre\t')
-        out_file.write('recall\tlower-re\tupper-re\ttp\tfp\tfn\ttn\n')
-
-        for curr_exp_dir in generalized_dirs:
-            all_items_rows = load_list(curr_exp_dir + '/data_all_items.txt')
-            results = numbers_for_eye_paper_v2019sep28(all_items_rows)
-            dir_and_type_str = curr_exp_dir + '\tall_item_rows'
-            write_numbers_results(out_file, dir_and_type_str, results)
-
-            models_only_rows = load_list(curr_exp_dir + '/data_models_only.txt')
-            results = numbers_for_eye_paper_v2019sep28(models_only_rows)
-            dir_and_type_str = curr_exp_dir + '\tmodels_only_rows'
-            write_numbers_results(out_file, dir_and_type_str, results)
-
-        out_file.close()
-
     # ## calculate stats for eye_paper | item  n_true, n_total, auroc, upper, lower
     if False:
         items = get_all_items(generalized_dirs)

@@ -1,5 +1,0 @@
-#dir	type	auroc	lower-auroc	upper-auroc	precision	lower-pre	upper-pre	recall	lower-re	upper-re	tp	fp	fn	tn
-../evaluation_study_models_manual	all_item_rows	0.767	0.755	0.779	0.327	0.31	0.344	0.594	0.57	0.619	658.0	1354.0	449.0	6651.0
-../evaluation_study_models_manual	models_only_rows	0.679	0.663	0.696	0.327	0.31	0.344	0.678	0.653	0.703	658.0	1354.0	312.0	2572.0
-../evaluation_study_models_gaze	all_item_rows	0.724	0.711	0.737	0.295	0.277	0.313	0.475	0.451	0.5	526.0	1258.0	581.0	6747.0
-../evaluation_study_models_gaze	models_only_rows	0.599	0.582	0.617	0.295	0.277	0.313	0.542	0.515	0.569	526.0	1258.0	445.0	2667.0

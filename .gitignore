@@ -4,6 +4,7 @@ README_private.txt
 Scripts/case_match_tests.py
 *.npy
 *.pkl
+.idea
 
 # case data
 complete_feature_files_manual_training_cases/diagnosis_features.txt
