@@ -28,7 +28,7 @@ If reproducing the analysis:
     * See jmir-2019/freeze.txt for full environmental setup
 
 If you want to reproduce the full experiment:
-* Please contact the authors to discuss access to a transformed version of the de-identified patient data because the data are restricted access.
+* Please contact the authors to discuss access to a transformed version of the de-identified patient data because the data are restricted access. 
 
 * Prerequisites for running jmir-2019/Scripts/driver_assemble_feature_matrix_2019sep29.py
     * First view and download download PatientPy (https://github.com/ajk77/PatientPy)
