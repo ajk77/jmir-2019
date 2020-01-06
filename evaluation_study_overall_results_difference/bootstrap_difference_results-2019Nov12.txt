@@ -1,0 +1,3 @@
+type(manual-gaze)	lower_auroc	upper_auroc	lower_precision	upper_precision	lower_recall	upper_recall	
+all	0.032	0.055	0.017	0.048	0.091	0.147
+eye	0.058	0.102	0.015	0.05	0.104	0.168

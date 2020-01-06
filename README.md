@@ -47,12 +47,14 @@ If you want to reproduce the full experiment:
 
 * If reproducing the analysis:  
     * In the __main__ definition for jmir-2019/Scripts/overall_model_performance_2019Oct01.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
+	* In the __main__ definition for jmir-2019/Scripts/itemwise_model_performance_2019Dec02.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
 
 * If you want to reproduce the full experiment:
     * Please see the prerequisites section. 
     * jmir-2019/Scripts/driver_assemble_feature_matrix_2019sep29.py should be run four times. In each run, change the index of "case = cases[]". The output populates the feature_matrix_stroage_* directories. 
     * In the __main__ definition for jmir-2019/Scripts/instantiate_experiment_2019sep09.py, change the four conditional's to be True. (These are false by default so that you do not need to run all of the code at once. This code takes 12 hours on an Intel(R) Core(TM) i7-870 CPU).
     * In the __main__ definition for jmir-2019/Scripts/overall_model_performance_2019Oct01.py, change the two conditional's to be True. (False by default to prevent accidental re-running of results).
+	* In the __main__ definition for jmir-2019/Scripts/itemwise_model_performance_2019Dec02.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
 
 
 The results are printed in evaluation_study_models_gaze and evaluation_study_models_manual directories. 
@@ -66,7 +68,7 @@ If you find a possible error in any of this code or documentation, please inform
 
 ## Versioning
 
-Version 2019Oct01 For the versions available, see https://github.com/ajk77/jmir-2019
+Version 2019Dec02 For the versions available, see https://github.com/ajk77/jmir-2019
 
 ## Authors
 
