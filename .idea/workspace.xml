@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d98ea6a-1626-49fd-a8fe-38aff552cc28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/driver_assemble_feature_matrix_2019Sep29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/driver_assemble_feature_matrix_2019Sep29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/instantiate_experiment_2019sep09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/instantiate_experiment_2019sep09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/itemwise_model_performance_2019Dec02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/itemwise_model_performance_2019Dec02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/overall_model_performance_2019Oct01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/overall_model_performance_2019Oct01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature_matrix_storage_gaze_training_cases/feat_targ_samples_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature_matrix_storage_gaze_training_cases/feat_targ_samples_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature_matrix_storage_gaze_training_cases/feature_samples_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature_matrix_storage_gaze_training_cases/feature_samples_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature_matrix_storage_gaze_training_cases/target_samples_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature_matrix_storage_gaze_training_cases/target_samples_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature_matrix_storage_manual_training_cases/feat_targ_samples_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature_matrix_storage_manual_training_cases/feat_targ_samples_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature_matrix_storage_manual_training_cases/feature_samples_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature_matrix_storage_manual_training_cases/feature_samples_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature_matrix_storage_manual_training_cases/target_samples_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature_matrix_storage_manual_training_cases/target_samples_out.txt" afterDir="false" />
-    </list>
+    <list default="true" id="0d98ea6a-1626-49fd-a8fe-38aff552cc28" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +15,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="272">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                <caret line="16" selection-start-line="16" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -75,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/Scripts/overall_model_performance_2019Oct01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -130,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="96" />
     <option name="y" value="-9" />
     <option name="width" value="1833" />
@@ -206,16 +193,15 @@
       <workItem from="1574795474554" duration="255000" />
       <workItem from="1574795741516" duration="170000" />
       <workItem from="1574796083640" duration="164000" />
-      <workItem from="1581631400844" duration="1064000" />
+      <workItem from="1581631400844" duration="1220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7470000" />
+    <option name="totallyTimeSpent" value="7626000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="-7" width="1466" height="878" extended-state="7" />
-    <editor active="true" />
+    <frame x="77" y="-7" width="1466" height="878" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3096591" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,7 +235,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="272">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -293,7 +279,7 @@
     <entry file="file://$PROJECT_DIR$/Scripts/overall_model_performance_2019Oct01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

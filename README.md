@@ -1,11 +1,13 @@
 # jmir-2020-king
 
-This package is for reproducing the experiments conducted in the JMIR-submitted paper "Leveraging Eye Tracking to Selectively Highlight Medical Record Data"
+This package is for reproducing the experiments conducted in the JMIR accepted paper "Leveraging Eye Tracking to Prioritize Relevant Medical Record Data: Comparative Machine Learning Study"
 
 ## Citing this work
 
 Please cite:<br>
-King AJ, Cooper GF, Clermont G, Hochheiser H, Hauskrecht M, Sittig DF, Visweswaran S. Leveraging Eye Tracking to Selectively Highlight Medical Record Data. [under review]
+King AJ, Cooper GF, Clermont G, Hochheiser H, Hauskrecht M, Sittig DF, Visweswaran S
+Leveraging Eye Tracking to Prioritize Relevant Medical Record Data: Comparative Machine Learning Study
+J Med Internet Res 2020; [to appear]
 
 Also see:<br>
 King AJ, Hochheiser H, Visweswaran S, Clermont G, Cooper GF. Eye-tracking for clinical decision support: A method to capture automatically what physicians are viewing in the EMR. AMIA Joint Summits. 2017 Mar 27-30; San Francisco, California p 512-521. (https://www.ncbi.nlm.nih.gov/pubmed/28815151)
@@ -13,7 +15,7 @@ King AJ, Hochheiser H, Visweswaran S, Clermont G, Cooper GF. Eye-tracking for cl
 
 ## Description
 
-This directory is for reproducing the results of the machine learning paper, Harnessing Eye Tracking to Selectively Highlight Medical Record Data.  
+This directory is for reproducing the results of the machine learning paper, Leveraging Eye Tracking to Prioritize Relevant Medical Record Data: Comparative Machine Learning Study.  
 
 
 
