@@ -1,21 +1,21 @@
 """
 overall_model_performance_2019Oct01.py
 version 2019Oct01
-package https://github.com/ajk77/jmir-2019
+package https://github.com/ajk77/jmir-2020-king
 Created by AndrewJKing.com|@andrewsjourney
 
 Result analysis and bootstrapped confidence intervals. 
 Run this file to reproduce results. 
 Data files are available to run this as is (after setting conditionals to True in __main__).
-To reproduce from scratch, please see jmir-2019/drive_assemble_feature_matrix_2019Sep29.py
+To reproduce from scratch, please see jmir-2020-king/drive_assemble_feature_matrix_2019Sep29.py
 
 ---LICENSE---
-This file is part of jmir-2019
-jmir-2019 is free software: you can redistribute it and/or modify
+This file is part of jmir-2020-king
+jmir-2020-king is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 any later version.
-jmir-2019 is distributed in the hope that it will be useful,
+jmir-2020-king is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.

@@ -1,4 +1,4 @@
-# jmir-2019
+# jmir-2020-king
 
 This package is for reproducing the experiments conducted in the JMIR-submitted paper "Leveraging Eye Tracking to Selectively Highlight Medical Record Data"
 
@@ -19,42 +19,42 @@ This directory is for reproducing the results of the machine learning paper, Har
 
 ### Prerequisites
 
-The code was run using Python 3.7.3. See jmir-2019/freeze.txt for full environmental setup. 
+The code was run using Python 3.7.3. See jmir-2020-king/freeze.txt for full environmental setup. 
 
 If reproducing the analysis:
-* Prerequisites for running jmir-2019/Scripts/overall_model_performance_2019Oct01.py 
-    * See jmir-2019/freeze.txt for full environmental setup
+* Prerequisites for running jmir-2020-king/Scripts/overall_model_performance_2019Oct01.py 
+    * See jmir-2020-king/freeze.txt for full environmental setup
 
 If you want to reproduce the full experiment:
 * Please contact the authors to discuss access to a transformed version of the de-identified patient data because the data are restricted access. 
 
-* Prerequisites for running jmir-2019/Scripts/driver_assemble_feature_matrix_2019sep29.py
+* Prerequisites for running jmir-2020-king/Scripts/driver_assemble_feature_matrix_2019sep29.py
     * First view and download download PatientPy (https://github.com/ajk77/PatientPy)
-    * The data stored in the jmir-2019/complete_feature_files_* folders is the output of PatientPy/create_feature_vectors.py
-    * Running jmir-2019/Scripts/driver_assemble_feature_matrix_2019sep29.py applies PatientPy/assemble_feature_matrix.py
+    * The data stored in the jmir-2020-king/complete_feature_files_* folders is the output of PatientPy/create_feature_vectors.py
+    * Running jmir-2020-king/Scripts/driver_assemble_feature_matrix_2019sep29.py applies PatientPy/assemble_feature_matrix.py
 
-* Prerequisites for running jmir-2019/Scripts/instantiate_experiment_2019sep09.py
+* Prerequisites for running jmir-2020-king/Scripts/instantiate_experiment_2019sep09.py
     * First view and download download RegressiveImputer (https://github.com/ajk77/RegressiveImputer)
     * First view and download download PatientPyFeatureSelection (https://github.com/ajk77/PatientPyFeatureSelection)
 
 ### Installing
 
-1. Download jmir-2019
+1. Download jmir-2020-king
 2. Create a Python 3.7 virtual environment
-3. Install the requirements listed in jmir-2019/freeze.txt<br>
+3. Install the requirements listed in jmir-2020-king/freeze.txt<br>
 
 ## Deployment
 
 * If reproducing the analysis:  
-    * In the __main__ definition for jmir-2019/Scripts/overall_model_performance_2019Oct01.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
-	* In the __main__ definition for jmir-2019/Scripts/itemwise_model_performance_2019Dec02.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
+    * In the __main__ definition for jmir-2020-king/Scripts/overall_model_performance_2019Oct01.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
+	* In the __main__ definition for jmir-2020-king/Scripts/itemwise_model_performance_2019Dec02.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
 
 * If you want to reproduce the full experiment:
     * Please see the prerequisites section. 
-    * jmir-2019/Scripts/driver_assemble_feature_matrix_2019sep29.py should be run four times. In each run, change the index of "case = cases[]". The output populates the feature_matrix_stroage_* directories. 
-    * In the __main__ definition for jmir-2019/Scripts/instantiate_experiment_2019sep09.py, change the four conditional's to be True. (These are false by default so that you do not need to run all of the code at once. This code takes 12 hours on an Intel(R) Core(TM) i7-870 CPU).
-    * In the __main__ definition for jmir-2019/Scripts/overall_model_performance_2019Oct01.py, change the two conditional's to be True. (False by default to prevent accidental re-running of results).
-	* In the __main__ definition for jmir-2019/Scripts/itemwise_model_performance_2019Dec02.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
+    * jmir-2020-king/Scripts/driver_assemble_feature_matrix_2019sep29.py should be run four times. In each run, change the index of "case = cases[]". The output populates the feature_matrix_stroage_* directories. 
+    * In the __main__ definition for jmir-2020-king/Scripts/instantiate_experiment_2019sep09.py, change the four conditional's to be True. (These are false by default so that you do not need to run all of the code at once. This code takes 12 hours on an Intel(R) Core(TM) i7-870 CPU).
+    * In the __main__ definition for jmir-2020-king/Scripts/overall_model_performance_2019Oct01.py, change the two conditional's to be True. (False by default to prevent accidental re-running of results).
+	* In the __main__ definition for jmir-2020-king/Scripts/itemwise_model_performance_2019Dec02.py, change the two conditionals to be True. (False by default to prevent accidental re-running of results).
 
 
 The results are printed in evaluation_study_models_gaze and evaluation_study_models_manual directories. 
@@ -68,7 +68,7 @@ If you find a possible error in any of this code or documentation, please inform
 
 ## Versioning
 
-Version 2019Dec02 For the versions available, see https://github.com/ajk77/jmir-2019
+Version 2019Dec02 For the versions available, see https://github.com/ajk77/jmir-2020-king
 
 ## Authors
 
@@ -101,3 +101,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 	* Twitter (https://twitter.com/hshoch)
 * Gilles Clermont
 * Milos Hauskrecht 
+* Dean Sittig
+    * Twitter (https://twitter.com/deansittig)
