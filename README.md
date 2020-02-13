@@ -75,10 +75,17 @@ Version 2019Dec02 For the versions available, see https://github.com/ajk77/jmir-
 * Andrew J King - Doctoral Candidate (at time of creation)
 	* Website (https://www.andrewjking.com/)
 	* Twitter (https://twitter.com/andrewsjourney)
+* Gregory F Cooper - Doctoral Advisor
+* Gilles Clermont
+* Harry Hochheiser
+	* Twitter (https://twitter.com/hshoch)
+* Milos Hauskrecht 
+* Dean Sittig
+    * Twitter (https://twitter.com/deansittig)
 * Shyam Visweswaran - Principal Investigator
 	* Website (http://www.thevislab.com/)
 	* Twitter (https://twitter.com/Shyam_Vis)
-* Gregory F Cooper - Doctoral Advisor
+
 
 ## License
 
@@ -95,11 +102,3 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-## Acknowledgments
-
-* Harry Hochheiser
-	* Twitter (https://twitter.com/hshoch)
-* Gilles Clermont
-* Milos Hauskrecht 
-* Dean Sittig
-    * Twitter (https://twitter.com/deansittig)
